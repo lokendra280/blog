@@ -57,7 +57,7 @@ const Hamer = () => {
   return (
     <>
       <div
-        className="h-[100vh] xl:h-auto"
+        // className="h-[100vh] xl:h-auto"
         style={{
           // backgroundImage: `url(${backgroundImageUrl})`,
           backgroundImage: `url(${bg})`,
@@ -95,7 +95,7 @@ const Hamer = () => {
           "
             >
               {" "}
-              श्री बिग xxl यौन चाहना बढाउँछ
+              MR.BIG यौन चाहना बढाउँछ
             </p>
 
             <button className="block bg-[#F78915] px-56  xl:px-36 py-2 shadow-orange-900 shadow-md text-white text-5xl xl:text-xl rounded-full">

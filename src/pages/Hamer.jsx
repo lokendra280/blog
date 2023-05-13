@@ -30,7 +30,7 @@ const Hamer = () => {
     event.preventDefault();
 
     fetch(
-      "https://sheet.best/api/sheets/81243c6b-7e26-4e74-946b-3b61a8a75fad",
+      "https://sheet.best/api/sheets/1b422773-8237-4544-8596-7ac59e04a621",
       {
         method: "POST",
         headers: {
